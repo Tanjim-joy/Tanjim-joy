@@ -379,7 +379,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjim-joy&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Tanjim-joy&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanjim-joy&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanjim-joy&theme=radical&hide_border=false&" alt="GitHub Streak Stats" />
 </p>
 
 ---
