@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=520&height=30&lines=As-salamu+alaykum👋+I'm+Md+Tangimul+Haque..;Deputy+Assistant+Director;WALTON+ICT Department..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You....&center=true"
-    alt="Typing SVG"
-  />
+ <img 
+    src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=520&height=30&lines=As-salamu+alaykum👋+I'm+Md+Tangimul+Haque....;Deputy+Assistant+Director;WALTON+ICT+Department;Learning+In+Public;Empowering+Others;Nice+To+Meet+You....&center=true" 
+    alt="Typing SVG" />
+
 
   # 🖥️ Technical Skills:
 </p>
