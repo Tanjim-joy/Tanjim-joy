@@ -11,8 +11,8 @@
 
 - 🔭 **Currently working at:** WALTON ICT Department as Deputy Assistant Director
 - 🌱 **Learning:** Full-stack development & Cloud technologies
-- 👯 **Looking to collaborate on:** Open source projects, MERN stack applications
-- 💬 **Ask me about:** Web development, PHP, React, Database design
+- 👯 **Looking to collaborate on:** Open source projects, Full stack applications
+- 💬 **Ask me about:** Web development, ASP.NET, C#, PHP, React, Database design
 - 📫 **Reach me at:** [GitHub](https://github.com/Tanjim-joy)
 - ⚡ **Fun fact:** I love learning in public and empowering others to code!
 
@@ -103,10 +103,10 @@
   <a href="https://github.com/Tanjim-joy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/tanjim-joy" target="_blank">
+  <a href="https://www.linkedin.com/in/tangimul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tanjim@example.com" target="_blank">
+  <a href="mailto:tanjimjoy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
