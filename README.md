@@ -103,6 +103,12 @@ Deputy Assistant Director at **WALTON ICT Department** with a focus on deliverin
   <img src="https://komarev.com/ghpvc/?username=Tanjim-joy&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="center">
   <i>“Engineering reliable systems. Sharing knowledge openly. Driving technological impact.”</i>
 </p>
